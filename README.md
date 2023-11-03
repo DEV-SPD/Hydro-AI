@@ -19,13 +19,13 @@ Our project aims to harness the power of artificial intelligence to monitor and 
 # CONTRIBUTING
 We welcome contributions from the community. To contribute to Healthcare.AI, follow these steps:
 
-Fork the repository.
-Create a new branch for your feature: git checkout -b feature-name.
-Commit your changes: git commit -m "Description of changes".
-Push to your branch: git push origin feature-name.
-Open a pull request.
+1. Fork the repository.
+2. Create a new branch for your feature: git checkout -b feature-name.
+3. Commit your changes: git commit -m "Description of changes".
+4. Push to your branch: git push origin feature-name.
+5. Open a pull request.
 
 # AUTHOR
-Siba Prasad Das (Machine Learning Engineer) 
-Khair Alanam (Full Stack Developer)
+1. Siba Prasad Das (Machine Learning Engineer) 
+2. Khair Alanam (Full Stack Developer)
 
