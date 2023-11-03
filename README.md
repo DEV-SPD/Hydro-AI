@@ -25,7 +25,7 @@ We welcome contributions from the community. To contribute to Healthcare.AI, fol
 4. Push to your branch: git push origin feature-name.
 5. Open a pull request.
 
-# AUTHOR
+# AUTHORS
 1. Siba Prasad Das (Machine Learning Engineer) 
 2. Khair Alanam (Full Stack Developer)
 
