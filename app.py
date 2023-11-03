@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 
-# Load your XGBoost model
+# Loading XGBoost model
 with open('Water-Quality-Monitoring', 'rb') as f:
     model = pickle.load(f)
 
@@ -14,6 +14,7 @@ def pre_processors(df):
         df[i] = df[i].fillna(mean_value)
     return df
 
+#UserInputs
 st.title('AI Powered Water Quality Monitoring')
 ph = st.text_input('pH of Water : ')
 Hardness = st.text_input('Hardness of Water: ')
