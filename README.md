@@ -1,1 +1,1 @@
-# Water-Quality-Monitoring
+# AI Powered Water Quality Monitoring
