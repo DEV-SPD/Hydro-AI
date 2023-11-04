@@ -29,6 +29,10 @@ Our project aims to harness the power of artificial intelligence to monitor and 
 # TECHSTACK
   1. Python & its libraries
   2. Streamlit
+  3. TailwindCss
+  4. Javascript
+  5. Typescript
+  6. Astrojs
 
 # Info
 Output == Safe:
