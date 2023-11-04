@@ -7,6 +7,10 @@ Our project aims to harness the power of artificial intelligence to monitor and 
 
 ## TABLE OF CONTENT
 - [WHY HYDRO-AI](#why-hydro-ai)
+- [FEATURES](#features)
+- [TECHSTACK](#techstack)
+- [CONTRIBUTING](#contributing)
+- [AUTHORS](#authors)
 
 ## WHY HYDRO-AI
 1. Environmental Impact: Our project aligns with river action plans by automating water quality monitoring, aiding in pollution control, and environmental conservation.
