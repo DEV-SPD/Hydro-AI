@@ -17,7 +17,7 @@ Our project aims to harness the power of artificial intelligence to monitor and 
   4. Accurate Forecasting
 
 # Info
-Output == safe:
+Output == Safe:
 1. Water Quality Assurance: Our system provides real-time monitoring, and when the result indicates "safe," it means the water quality is within predefined standards, ensuring it's suitable for its intended use.
 
 2. No Immediate Action Required: A "safe" result signifies that there's no need for immediate intervention or corrective action, offering peace of mind to users.
