@@ -16,6 +16,19 @@ Our project aims to harness the power of artificial intelligence to monitor and 
   3. Remote Access
   4. Accurate Forecasting
 
+# Info
+Output is safe:
+1. Water Quality Assurance: Our system provides real-time monitoring, and when the result indicates "safe," it means the water quality is within predefined standards, ensuring it's suitable for its intended use.
+
+2. No Immediate Action Required: A "safe" result signifies that there's no need for immediate intervention or corrective action, offering peace of mind to users.
+
+3. Continuous Monitoring: Even when water quality is "safe," our system continues to monitor, allowing timely detection of deviations and proactive response if needed.
+
+4. Customizable Thresholds: We understand that "safe" can vary, so our system allows users to customize thresholds to align with local regulations or specific requirements.
+
+5. Long-Term Sustainability: Consistently achieving "safe" results contributes to the sustainable management of water resources and supports environmental conservation 
+   efforts.
+
 # CONTRIBUTING
 We welcome contributions from the community. To contribute to Healthcare.AI, follow these steps:
 
