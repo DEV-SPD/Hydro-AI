@@ -1,5 +1,2 @@
-pickle-mixin
-streamlit
-streamlit-option-menu
-scikit-learn
-protobuf
+pandas == 1.5.3
+streamlit == 1.26.0
